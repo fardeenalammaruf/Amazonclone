@@ -158,11 +158,11 @@
     height: 600px;
     display: flex;
     justify-content: center;
+    background-image: url('pictures/61lwJy4B8PL._SX3000_.jpg');
     background-size: cover;
-    background-image:url(pictures/61lwJy4B8PL._SX3000_.jpg);
+    background-position: center;
     height: 600px;
     margin-left: -150px;
-    background-size: cover;
 }
 .hero-image-container{
     position: relative;
